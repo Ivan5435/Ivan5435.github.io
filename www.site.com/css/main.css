@@ -1,0 +1,54 @@
+h2 {
+	color: green;
+	border: 33px solid ;
+	background: green;
+
+}
+
+
+ 
+div,p,input,buton,from,span,a,ul,li {
+	box-sizing: border-box; 
+}
+
+
+.new {
+	color: red;
+}
+ 
+.block {
+	font-size: 17px;
+	width: 100px;
+	height: 100px;
+	background-color: blue;
+}
+
+  ul li {
+  	border: 1px solid black;
+  }
+
+
+.bv{
+	background: green;
+	color: white;
+
+	opacity: 20px;
+	height: 150px;
+	padding-top: 10px;
+	padding-left: 20px;
+
+
+}
+
+.gg{
+	background: green;
+	color: white;
+	border: 20px solid ;
+}
+
+
+.bb{
+	border: 5px;
+	color: white;
+
+}
